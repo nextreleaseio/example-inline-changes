@@ -1,11 +1,6 @@
-# Branch Per Environment Example #
+# Example: Inline Changes #
 ## Overview ##
-This strategy requires a minimum of a staging branch and a production branch. 
-The staging branch acts as an area where all the upcoming changes in the next 
-release are aggregated. Often times the changes loaded into staging are 
-validated and shipped out to an environment mirroring production where the team 
-can manually test fixes and new features prior to deploying them out to 
-production.
+More TODO
 
 Automate Your Release Notes in 3-Clicks @ [NextRelease.io](https://www.nextrelease.io)
 
