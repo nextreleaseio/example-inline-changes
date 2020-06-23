@@ -1,6 +1,6 @@
 # Example: Inline Changes #
 ## Overview ##
-More TODO
+More TODO TODO TODO
 
 Automate Your Release Notes in 3-Clicks @ [NextRelease.io](https://www.nextrelease.io)
 
