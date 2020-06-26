@@ -1,6 +1,6 @@
 # Example: Inline Changes #
 ## Overview ##
-Example of release notes being created via the PR body.
+Example of release notes being created via the PR body. EDIT
 
 Automate Your Release Notes in 3-Clicks @ [NextRelease.io](https://www.nextrelease.io)
 
