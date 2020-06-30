@@ -4,4 +4,8 @@ asdfoasdf
 asdfasdfa
 sdfads
 asdfasdsad
-f
+- foo
+- [ ] bar
+- [ ] baz
+- [ ] zed
+- [ ] qed
